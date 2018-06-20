@@ -161,11 +161,11 @@
 }
 .flag-style-openclose {
 	display: inline-block;
-	font-size: 12px;
-	color: #51C7A7;
-	text-decoration: underline;
-	cursor: default;
-	margin-right: 20px;
+    font-size: 12px;
+    color: #51C7A7;
+    text-decoration: underline;
+    cursor: default;
+    margin-right: 20px;
 }
 .flag-style-openclose:hover{
 	opacity : 0.6;
@@ -185,11 +185,11 @@
    color: #b0b0b0;
 }
 :-moz-placeholder { /* Firefox 18- */
-	color: #b0b0b0;
+    color: #b0b0b0;
 }
 ::-moz-placeholder {  /* Firefox 19+ */
-	color: #b0b0b0;
+    color: #b0b0b0;
 }
 :-ms-input-placeholder {
-	color: #b0b0b0;
+    color: #b0b0b0;
 }

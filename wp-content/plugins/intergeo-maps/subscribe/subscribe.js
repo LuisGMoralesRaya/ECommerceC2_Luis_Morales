@@ -1,4 +1,3 @@
-/* global themeisle_sdk */
 (function($){
     $(document).ready(function(){
         $('.themeisle-sdk-subscribe-btn').on('click', function(e){
